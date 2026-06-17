@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "697255599135",
+    "project_id": "math-canvas-19882",
+    "storage_bucket": "math-canvas-19882.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697255599135:android:b08b821cdf370024c6892a",
+        "android_client_info": {
+          "package_name": "com.example.math_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697255599135-u68b83tsi3s3g1o8ujitb0afftrk29ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh2CXJbyNOl0xGTtOj3vMzsmWE2qB8N64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697255599135-u68b83tsi3s3g1o8ujitb0afftrk29ko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "697255599135-jgnc61gpeu1k6njqnm75gaub4ti85v7e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mathApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697255599135:android:4b198312c39f9041c6892a",
+        "android_client_info": {
+          "package_name": "com.mathhobby.mathcanvas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697255599135-8thtqjvlananp3jabvdpjvc5b43t1ta2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mathhobby.mathcanvas",
+            "certificate_hash": "41bd0419b99833ccd0739b35b6a95c05af47e8b5"
+          }
+        },
+        {
+          "client_id": "697255599135-b3gijgnhlj4svu04fs6t9cpuuunjvr3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mathhobby.mathcanvas",
+            "certificate_hash": "aa92fb41488376106ce6e1a98d2e6a65e125d065"
+          }
+        },
+        {
+          "client_id": "697255599135-u68b83tsi3s3g1o8ujitb0afftrk29ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh2CXJbyNOl0xGTtOj3vMzsmWE2qB8N64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697255599135-u68b83tsi3s3g1o8ujitb0afftrk29ko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "697255599135-jgnc61gpeu1k6njqnm75gaub4ti85v7e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mathApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
