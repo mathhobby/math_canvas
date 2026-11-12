@@ -32057,7 +32057,7 @@ aud(a,b,c){return A.b7p(a,b,c)},
 b7p(a,b,c){var s=0,r=A.P(t.N),q,p=2,o=[],n,m,l,k,j,i
 var $async$aud=A.Q(function(d,e){if(d===1){o.push(e)
 s=p}while(true)switch(s){case 0:p=4
-m=A.hR("http://127.0.0.1:8000/integrate")
+m=A.hR("https://math-canvas-backend.onrender.com/integrate")
 l=t.N
 k=A.ah(["Content-Type","application/json"],l,l)
 s=7
@@ -32089,7 +32089,7 @@ auf(a){return A.b7r(a)},
 b7r(a){var s=0,r=A.P(t.z),q,p=2,o=[],n,m,l,k,j,i
 var $async$auf=A.Q(function(b,c){if(b===1){o.push(c)
 s=p}while(true)switch(s){case 0:p=4
-m=A.hR("http://127.0.0.1:8000/intercepts")
+m=A.hR("https://math-canvas-backend.onrender.com/intercepts")
 l=t.N
 k=A.ah(["Content-Type","application/json"],l,l)
 s=7
@@ -32124,7 +32124,7 @@ aue(a){return A.b7q(a)},
 b7q(a){var s=0,r=A.P(t.j),q,p=2,o=[],n,m,l,k,j,i
 var $async$aue=A.Q(function(b,c){if(b===1){o.push(c)
 s=p}while(true)switch(s){case 0:p=4
-m=A.hR("http://127.0.0.1:8000/extrema")
+m=A.hR("https://math-canvas-backend.onrender.com/extrema")
 l=t.N
 k=A.ah(["Content-Type","application/json"],l,l)
 s=7
@@ -32156,7 +32156,7 @@ aug(a,b){return A.b7s(a,b)},
 b7s(a,b){var s=0,r=A.P(t.j),q,p=2,o=[],n,m,l,k,j,i
 var $async$aug=A.Q(function(c,d){if(c===1){o.push(d)
 s=p}while(true)switch(s){case 0:p=4
-m=A.hR("http://127.0.0.1:8000/intersections")
+m=A.hR("https://math-canvas-backend.onrender.com/intersections")
 l=t.N
 k=A.ah(["Content-Type","application/json"],l,l)
 s=7
